@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<xex>
+  <format>
+    <compressed/>
+  </format>
+  <mediatypes>
+    <harddisk/>
+    <livepackage/>
+    <signedpackage/>
+  </mediatypes>
+  <sysdll/>
+</xex>

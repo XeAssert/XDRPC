@@ -1,0 +1,15 @@
+LIBRARY XDRPC
+EXPORTS
+	DumpMemoryToPath @1
+	ResolveFunction @2
+	patchInJump @3
+	HvPeekBYTE @4
+	HvPeekWORD @5
+	HvPeekDWORD @6
+	HvPeekQWORD @7
+	HvPeekBytes @8
+	HvPokeBYTE @9
+	HvPokeWORD @10
+	HvPokeDWORD @11
+	HvPokeQWORD @12
+	HvPokeBytes @13
